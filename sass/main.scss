@@ -1,3 +1,4 @@
-h1.title{
-    color: tomato;
-}
+@import "./base/normalise";
+@import "./base/mixins";
+@import "./components/base";
+@import "./components/header";
